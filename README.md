@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Jo1159
+- 👀 I just do programming for fun.
+- 🌱 I’m currently learning go & some music
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
